@@ -1,0 +1,11 @@
+# Login as <username> <password>
+
+* Hover "//div[@id='myAccount']" texts
+* Wait "2" seconds
+* Click element by xpath "//a[@id='login']"
+* Send keys element by id "txtUserName" text <username>
+* Send keys password element by id "txtPassword" text <password>
+* Click element by id "btnLogin"
+* Wait "2" seconds
+
+

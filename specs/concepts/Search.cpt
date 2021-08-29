@@ -1,0 +1,5 @@
+# Search as <text>
+
+* Send keys element by xpath "//*[@id='SearchBoxOld']/div/div/div[1]/div[2]/input" text <text>
+* Click element by xpath "//*[@id='SearchBoxOld']/div/div/div[2]"
+* Wait "2" seconds
