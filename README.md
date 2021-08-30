@@ -1,5 +1,5 @@
 # Installation
-Apache Maven 3.6.3
+* Apache Maven 3.6.3
 java 11.0.12
 Gauge version: 1.1.7
 
