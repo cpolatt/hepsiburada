@@ -14,15 +14,13 @@ Project is created with:
 * Gauge version: 1.1.7
 
 ## Setup
-To run this project, install it locally using npm:
+To run this project, using cmd:
 
 ```
 $ mvn.cmd -q clean compile test-compile gauge:execute -Dflags=--hide-suggestion,--simple-console -DspecsDir=specs\CaseStudy.spec:25
 ```
 
 ## ScreenShot
-
-
 ![image](https://user-images.githubusercontent.com/11458835/131298198-cfb05f9f-e01f-4dbf-bab0-83ff7ebea90f.png)
 
 
