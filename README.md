@@ -1,7 +1,7 @@
 # Installation
 * Apache Maven 3.6.3
-java 11.0.12
-Gauge version: 1.1.7
+* java 11.0.12
+* Gauge version: 1.1.7
 
 mvn.cmd -q clean compile test-compile gauge:execute -Dflags=--hide-suggestion,--simple-console -DspecsDir=specs\CaseStudy.spec:25
 
