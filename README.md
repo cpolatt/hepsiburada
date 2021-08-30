@@ -19,6 +19,7 @@ To run this project, using cmd:
 ```
 $ mvn.cmd -q clean compile test-compile gauge:execute -Dflags=--hide-suggestion,--simple-console -DspecsDir=specs\CaseStudy.spec:25
 ```
+You need to use gauge run -p or gauge run --parallel to tell gauge to run specs in parallel.
 
 ## ScreenShot
 ![image](https://user-images.githubusercontent.com/11458835/131298198-cfb05f9f-e01f-4dbf-bab0-83ff7ebea90f.png)
