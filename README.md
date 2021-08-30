@@ -1,3 +1,6 @@
+## General info
+This project is hepsiburada case study.
+
 ## Technologies
 Project is created with:
 * Apache Maven version: 3.6.3
